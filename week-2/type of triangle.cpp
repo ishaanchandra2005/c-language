@@ -9,5 +9,5 @@ int main ()
 	else if (a==b||b==c||c==a)
 	printf("it is an isosceles triangle");
 	else 
-	printf("is is a scalene triangle");
+	printf("it is a scalene triangle");
 }
